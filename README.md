@@ -3,9 +3,9 @@
 # Team-Technocarts
 
 # Team-Members 
-•	Sravani Thoomuganti - sthoo1@unh.newhaven.edu
-•	Kamal Siddharth Teki - kteki1@unh.newhaven.edu
-•	Sai Teja Gunda - sgund9@unh.newhaven.edu
+Sravani Thoomuganti - sthoo1@unh.newhaven.edu
+Kamal Siddharth Teki - kteki1@unh.newhaven.edu
+Sai Teja Gunda - sgund9@unh.newhaven.edu
 
 # Dataset
 The datasets we chose date back two years and come from a trusted domain. The door dash data analysis datasets will be used by us. Since we obtained the data from the official Kaggle website, which has historical stock data, we can guarantee that it is accurate to the nth degree. We also got dataset of delivery duration prediction which we also use in our research. We have taken this from strata scratch website.
