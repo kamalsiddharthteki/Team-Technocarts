@@ -1,4 +1,4 @@
-#Course-Data_Mining_6401
+#Course-Data-Mining-6401
 
 # Team-Technocarts
 
